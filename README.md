@@ -3,3 +3,5 @@ Projekt zaliczeniowy z przedmiotu Metody Modelowania Matematycznego (Automatyka 
 
 Program symuluje zmiany liczebności populacji dwóch gatunków żyjących na tym samym terenie.
 Zmiany populacji zależą od współczynników: urodziń i śmierci (spowodowanych chorobami i walkami między gatunkami).
+
+![tresc zadania](https://i.imgur.com/tFp62r6.jpg)
